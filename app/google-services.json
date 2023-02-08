@@ -1,0 +1,190 @@
+{
+  "project_info": {
+    "project_number": "216938107975",
+    "project_id": "tzproject-777d4",
+    "storage_bucket": "tzproject-777d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216938107975:android:2fc6b59db21d11fe240d62",
+        "android_client_info": {
+          "package_name": "com.casinocatslotsonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216938107975-7o8bmrvh49jmj39bouqe8l11v4grhh5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOiDieUPF17akedTkg3lJwIsN44rMVioQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216938107975-7o8bmrvh49jmj39bouqe8l11v4grhh5i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "216938107975-js427h6gt2ofct1j08q72qoosgokp2sv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rmd.testDocker"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216938107975:android:fa1edd994ae7950e240d62",
+        "android_client_info": {
+          "package_name": "com.example.box_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216938107975-7o8bmrvh49jmj39bouqe8l11v4grhh5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOiDieUPF17akedTkg3lJwIsN44rMVioQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216938107975-7o8bmrvh49jmj39bouqe8l11v4grhh5i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "216938107975-js427h6gt2ofct1j08q72qoosgokp2sv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rmd.testDocker"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216938107975:android:f6ada465065354d5240d62",
+        "android_client_info": {
+          "package_name": "com.example.casinoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216938107975-7o8bmrvh49jmj39bouqe8l11v4grhh5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOiDieUPF17akedTkg3lJwIsN44rMVioQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216938107975-7o8bmrvh49jmj39bouqe8l11v4grhh5i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "216938107975-js427h6gt2ofct1j08q72qoosgokp2sv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rmd.testDocker"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216938107975:android:1ac3720131b50f7a240d62",
+        "android_client_info": {
+          "package_name": "com.example.spacex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216938107975-7o8bmrvh49jmj39bouqe8l11v4grhh5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOiDieUPF17akedTkg3lJwIsN44rMVioQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216938107975-7o8bmrvh49jmj39bouqe8l11v4grhh5i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "216938107975-js427h6gt2ofct1j08q72qoosgokp2sv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rmd.testDocker"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216938107975:android:946f5d1c41bb6ee4240d62",
+        "android_client_info": {
+          "package_name": "com.example.tzaffli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216938107975-7o8bmrvh49jmj39bouqe8l11v4grhh5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOiDieUPF17akedTkg3lJwIsN44rMVioQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216938107975-7o8bmrvh49jmj39bouqe8l11v4grhh5i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "216938107975-js427h6gt2ofct1j08q72qoosgokp2sv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rmd.testDocker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
